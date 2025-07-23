@@ -98,3 +98,22 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+import streamlit as st
+
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: #e6f2ff;
+        color: #000000;
+    }
+    .stApp {
+        background-color: #e6f2ff;
+    }
+    h1, h2, h3, h4, h5, h6, p {
+        color: #000000 !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
