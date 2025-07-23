@@ -2,7 +2,7 @@
 
 This project predicts whether a student is likely to be *Placed* or *Not Placed* based on their academic and personal profile using various machine learning models.
 
-🌐 [Try the Live App on Streamlit Cloud](https://your-username-your-repo-name.streamlit.app)  
+🌐 [Try the Live App on Streamlit Cloud](https://placement-predictor-sdvnm4fbe7r9ydescqvbuw.streamlit.app/)  
 📌 Replace with your actual deployed link
 
 ---
